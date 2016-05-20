@@ -93,6 +93,7 @@ if ( CLIENT ) then
 		-- check their panel has the msgid allowed and on it already
 		-- check their player table for the msgid to make sure the sender is in it (meaning they accepted the conversation invite)
 		-- add the message to their panel
+		-- also, check if the sender is LocalPlayer(), if so, then add the 'Received' message text thing below the message
 	
 	end )
 
