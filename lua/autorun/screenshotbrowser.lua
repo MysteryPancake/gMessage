@@ -1,6 +1,6 @@
 concommand.Add( 'ShowMyScreenshots', function() -- How to network screenshots- 1. File.Read the filepath, then send it as a string, and on the other clients, save it as a .txt and load it as an IMaterial before removing the file quickly
 		
-	local pics = file.Find( "screenshots/*", "MOD" )
+	local pics = file.Find( "screenshots/*", "GAME", "dateasc" )
 	local matpath = '../screenshots/'
 	local newpics = {}
 		
