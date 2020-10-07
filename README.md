@@ -5,4 +5,4 @@ Currently it's a heavy work in progress, and this repository is simply being use
 
 Please note that I am not affiliated or sponsored by Apple in any way. I just wanted to create this for fun (please don't sue me Apple).
 
-![Icon](icon.jpg?raw=true)
+<img src="icon.jpg?raw=true" width="256">
