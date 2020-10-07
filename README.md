@@ -1,4 +1,4 @@
-<img src="icon.jpg?raw=true" width="84" align="left">
+<img src="icon.jpg?raw=true" width="74" align="left">
 
 # gMessage
 This project of mine was created with the intention of creating a functional replication of [iMessage](https://en.wikipedia.org/wiki/IMessage) for Garry's Mod.
